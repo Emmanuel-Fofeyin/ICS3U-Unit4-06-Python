@@ -11,7 +11,7 @@ def main():
     rgb2 = 0
     rgb3 = 0
 
-    # input,process,output
+    # process,output
     for rgb1 in range(256):
         for rgb2 in range(256):
             for rgb3 in range(256):
